@@ -16,7 +16,6 @@
 
 html {
     scroll-behavior: smooth;
-    padding: 30px;
 }
 
 body {
@@ -808,7 +807,7 @@ footer {
 /* responsive */
 
 @media (max-width: 900px) {
-    nav { padding: 18px 45px; }
+    nav { padding: 18px 32px; }
     .home { padding: 70px 0px 0; background-image: url(../assets/1.jpg); background-position: center; background-repeat: no-repeat; background-size: cover; }
     .home__inner {
         grid-template-columns: 1fr;
